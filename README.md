@@ -17,3 +17,9 @@ https://www.hackerrank.com/challenges/cavity-map/problem
 
 /**Practice 6 Utopian Tree**/
 https://www.hackerrank.com/challenges/utopian-tree/problem
+
+/**Practice 7 Picking Numbers**/
+https://www.hackerrank.com/challenges/picking-numbers/problem
+
+/**Practice 8 Mars Exploration**/
+https://www.hackerrank.com/challenges/mars-exploration/problem
