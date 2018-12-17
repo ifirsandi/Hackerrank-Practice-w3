@@ -26,3 +26,6 @@ https://www.hackerrank.com/challenges/mars-exploration/problem
 
 /**Practice 9 Find The Median**/
 https://www.hackerrank.com/challenges/find-the-median/problem
+
+/**Practice 10 Icecream Parlor**/
+https://www.hackerrank.com/challenges/icecream-parlor/problem
