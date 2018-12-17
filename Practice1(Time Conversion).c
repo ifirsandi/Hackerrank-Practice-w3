@@ -11,11 +11,17 @@ int main()
        scanf("%c", &time[i]);
     }
     int jam = (time[0] - '0')*10 + (time[1] - '0');
-    //printf ("%d", jam);
+    if (jam == 12){
+        if (time[8] == 'A'){
+            time[0] ='0';
+            time[1] ='0';
+        }
+    } else {
     if (time[8] == 'P'){
         jam = jam + 12;
         time[0] = jam/10 +'0';
         time[1] = jam%10 +'0';
+    }
     }
     time [8]= ' ';
     time [9]= ' ';
