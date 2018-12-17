@@ -23,3 +23,6 @@ https://www.hackerrank.com/challenges/picking-numbers/problem
 
 /**Practice 8 Mars Exploration**/
 https://www.hackerrank.com/challenges/mars-exploration/problem
+
+/**Practice 9 Find The Median**/
+https://www.hackerrank.com/challenges/find-the-median/problem
