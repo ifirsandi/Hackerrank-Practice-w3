@@ -29,3 +29,9 @@ https://www.hackerrank.com/challenges/find-the-median/problem
 
 /**Practice 10 Icecream Parlor**/
 https://www.hackerrank.com/challenges/icecream-parlor/problem
+
+/**Practice 11 Missing Number**/
+https://www.hackerrank.com/challenges/missing-numbers/problem
+
+/**Practice 12 Luck Balance**/
+https://www.hackerrank.com/challenges/luck-balance/problem
