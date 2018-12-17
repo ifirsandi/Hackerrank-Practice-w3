@@ -14,3 +14,6 @@ https://www.hackerrank.com/challenges/flatland-space-stations/problem
 
 /**Practice 5 Cavity Map**/
 https://www.hackerrank.com/challenges/cavity-map/problem
+
+/**Practice 6 Utopian Tree**/
+https://www.hackerrank.com/challenges/utopian-tree/problem
